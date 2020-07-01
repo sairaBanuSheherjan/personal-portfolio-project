@@ -99,7 +99,7 @@ section{
     color: white;
     margin-left: 20%;
 }
-.gmai-button a{
+.gmail-button a{
     text-decoration: none;
     color: white;
 }
@@ -109,6 +109,26 @@ section{
     background-size: cover;
     background-position: center;
 }
+.experience{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.container {
+    width: 50%;
+    background-color: #c5f0e3;
+  }
+  
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+  
+  .html {width: 90%; background-color: #de0bf1;}
+  .css {width: 80%; background-color: #0fa779;}
+  .js {width: 65%; background-color: #d6ec0c;}
+  .php {width: 60%; background-color: #4556ee;}
 .fa {
     margin-top: 10px;
     padding: 20px;
@@ -141,17 +161,7 @@ section{
     padding-left: 40%;
     padding-right: 40%;
   }
-  .contact {
-    width: 500px;
-    height: 200px;
-    background: #f9c232;
-    transition: width 2s;
-    
-  }
-  
-  .contact:hover {
-    width: 200px;
-  }
+
 footer p{
     text-align: center;
 
